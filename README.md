@@ -1,5 +1,5 @@
 # Canal de Navios
-## Equipe: Fernando Bertoncello, José Aroldo, Lucas Mancilha, Mário Filipe, Rafael Jatobá, Rafael Pereira 
+## Equipe: Fernando Bertoncello, José Aroldo, Lucas Mancilha, Mário Filipe, Rafael Jatobá, Rafael Pereira e Wesllen Leonardo
 
 Projeto de Sistemas Operacionais I para avaliação final. Consiste em um sistema de controle de navios através de threads e semáforos.
 
